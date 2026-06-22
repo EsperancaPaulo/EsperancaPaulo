@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, my name is Esperanca H. Paulo 👋🏽
 
-<!--
-**EsperancaPaulo/EsperancaPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a third-year Computer Science student with a strong interest in Cybersecurity and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects that solve real-world problems while continuously improving my programming, networking, and security skills.
+
+I am currently building my portfolio through hands-on projects in Python, Java, Linux, networking, web development, and cybersecurity.
+
+---
+
+## Currently Working On
+
+- 🛡️ Cybersecurity Home Lab
+- 💻 Software Engineering Projects
+- 📱 Sister Lock Mobile Application
+- 🤖 AI Content Creation Studio
+
+---
+
+## Technologies
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node.js
+- Git & GitHub
+- Linux
+- SQL
+
+---
+
+## Current Goals
+
+- Become a Cybersecurity Analyst
+- Build a strong Software Engineering portfolio
+- Contribute consistently to GitHub
+- Earn industry certifications
+- Graduate with distinction
+
+---
